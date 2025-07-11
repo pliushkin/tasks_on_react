@@ -15,7 +15,7 @@
   },
    "alias": {
    "./App": "./src/App.js"
-  }
+  },
   "eslintConfig": {
     "extends": ["react-app", "react-app/jest"]
   },
