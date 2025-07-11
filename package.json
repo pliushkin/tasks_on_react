@@ -13,10 +13,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-   "alias": {
-   "./App": "./src/App.js"
-  },
-  "eslintConfig": {
+   "eslintConfig": {
     "extends": ["react-app", "react-app/jest"]
   },
   "browserslist": {
